@@ -1,7 +1,7 @@
 # custom-linux-kernel
 custom linux kernel for BlueStarOS
 
-configure:
+configure(необязательно):
 
     make menuconfig
 
